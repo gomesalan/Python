@@ -17,4 +17,8 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 
+# Arquivos e/ou diretórios a serem ignorados 
+
 .ipynb_checkpoints
+.LICENSE
+.README.md
